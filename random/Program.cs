@@ -1,9 +1,5 @@
 ﻿// массив из случайных чисел
 
-int[] a;
-a=new int[10];
-
-
 int[] RandomIntArray(int size=10,int min=0,int max=100)
 {
     int [] a=new int [size];
